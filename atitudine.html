@@ -1,0 +1,46 @@
+---
+layout: category
+permalink: /atitudine.html
+title: A T I T U D I N E
+---
+
+
+<section id="posts" class="py-5">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+
+          <h1>{{ page.title }}</h1>
+          <div>
+               <ul>
+                <br>
+                <br>
+                <br>
+
+                {% for post in site.categories.atitudine %}
+                <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+                <p class="text-info lead">
+                {{ post.date | date: "%-d %b %Y" }}
+                </p>
+
+                <p>
+                {% if post.summary %}
+                  {{ post.summary }}
+                {% else %}
+                  {{ post.excerpt }}
+                {% endif %}
+                </p>
+               {% endfor %} 
+
+             </ul>
+              <br>
+               <br>
+            
+              
+          </div>
+
+      
+     </div>
+   </div>
+ </div>
+</section>

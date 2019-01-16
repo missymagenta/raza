@@ -1,0 +1,43 @@
+<section id="posts" class="py-5">
+  <div class="container">
+    <div class="row flex-column-reverse flex-md-row">
+
+         <div class="col-sm-6">
+
+
+        {% for post in paginator.posts %}
+          <div class="rubrica"> 
+            <h4><a href="{{ post.url | prepend: site.baseurl }}">
+            <div class="caca">
+            {{ post.title }}
+          </div>
+          </a></h4>
+            <p class="data">
+              {{ post.date | date: "%-d %b %Y" }}
+            </p> 
+
+            <p> 
+              {% if post.summary %}
+                {{ post.summary }}
+              {% else %}
+                {{ post.excerpt }}
+              {% endif %}
+            </p>
+          </div>
+        {% endfor %}
+        </div>
+
+                 <div class="col-sm-6">
+
+                  <div class="rama">
+
+        <img src="{{site.url}}/img/zicatoare_ian.png" class="img-fluid" alt="Responsive image">
+
+        <article class="nume-zicatoare"> Zicătoarea lunii ianuarie</article>
+        </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>

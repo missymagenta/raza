@@ -1,0 +1,23 @@
+
+@media (min-width: 1025px) {
+    .nav-item {
+  
+      font-size: 2rem;
+      color: $primary !important;
+
+    }
+
+    .nav-link {
+
+        color: $primary !important;
+  
+
+        &:hover {
+        color: grey !important;
+        }
+    }
+}
+
+
+
+

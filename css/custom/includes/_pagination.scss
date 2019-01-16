@@ -1,0 +1,13 @@
+#pager {
+  a.btn.disabled {
+    color: darkgrey;
+    background-color: grey; 
+  }
+}
+
+.btn {
+	background-color:$primary;
+	 &:hover {
+      color: $info;
+    }
+}

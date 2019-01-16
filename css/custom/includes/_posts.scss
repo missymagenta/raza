@@ -1,0 +1,66 @@
+@media (min-width: 1025px) {
+
+
+.caca {
+	color:$primary;
+	margin: 5px; 
+}
+
+
+a:hover {
+  color: grey;
+}
+
+.data {
+	color: grey;
+	font-size: 15px; 
+}
+
+.nume-zicatoare {
+	margin-left: 8px;
+	font-style: italic;
+}
+
+.rubrica {
+	border-top: solid 2px $primary;
+}
+
+.rama {
+	border: solid 2px $primary; 
+	text-align: center; 
+}
+
+.img-fluid {
+	margin-top: 5px; 
+	margin-left: 8px; 
+	display: inline-block;
+}
+
+}
+
+
+@media (max-width: 1024px) {
+
+.caca {
+	color:#003366;
+	margin-top: 10px; 
+}
+
+a:hover {
+  color: grey;
+}
+
+.data {
+	color: grey;
+	font-size: 15px; 
+}
+
+.nume-zicatoare {
+	font-style: italic;
+	height: 60px; 
+}
+
+.rubrica {
+	border-top: solid 1px #003366;
+}
+}

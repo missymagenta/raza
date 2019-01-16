@@ -1,0 +1,87 @@
+@media (min-width: 1025px) {
+
+.banner {  
+  margin-top: 20px; 
+  text-align: center;  
+  height: 300px; 
+}
+
+.nav-headline {
+  height: 300px; 
+  line-height: 300px; 
+  color:$primary;
+  background: transparent;
+  display: inline-block;
+  font-size: 24.3rem; 
+  white-space: nowrap;
+}
+
+.editzia {
+  height: 25px;
+  margin-top: 70px;
+  margin-bottom: 70px; 
+  text-align: center; 
+}
+
+.text-editzia {
+  display: inline-block; 
+  color:$primary;
+  }
+
+.logo {
+  margin-top: 70px; 
+  margin-bottom: 80px; 
+}
+
+.coperta {
+  margin-top: 50px; 
+  text-align: center; 
+}
+
+.imagine-coperta {
+  display: inline-block; 
+}
+
+
+}
+
+
+@media (max-width: 1024px) {
+  .banner {  
+  margin-top: 1px; 
+  text-align: center;  
+  height: 80px; 
+}
+
+.nav-headline {
+  height: 80px; 
+  line-height: 80px; 
+  color:$primary;
+  background: transparent;
+  display: inline-block;
+  font-size: 6rem; 
+  white-space: nowrap;
+    }
+
+.editzia {
+  height: 10px;
+  margin-top: 20px;
+  margin-bottom:50px; 
+  text-align: center; 
+}
+
+.text-editzia {
+  display: inline-block; 
+  color:$primary;
+  }
+
+  .logo {
+  margin-top: 20px; 
+  margin-bottom: 30px; 
+}
+
+.coperta {
+  margin-bottom:10px; 
+}
+
+  }

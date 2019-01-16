@@ -1,0 +1,33 @@
+<section id="posts" class="py-5">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+
+        {% for category in site.categories %}
+          <h3>{{ category[0] }}</h3>
+          <div>
+               <ul>
+
+                {% for post in category[1] %}
+                <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+                <p class="text-info lead">
+                {{ post.date | date: "%b %-d, %Y" }}
+                </p>
+
+                <p>
+                {% if post.summary %}
+                  {{ post.summary }}
+                {% else %}
+                  {{ post.excerpt }}
+                {% endif %}
+                </p>
+               {% endfor %} 
+
+             </ul>
+          </div>
+      {% endfor %}  
+      
+     </div>
+   </div>
+ </div>
+</section>
