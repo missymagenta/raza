@@ -2,7 +2,7 @@
 title: RAZA
 email: "alina.soare37@gmail.com"
 author: alina
-baseurl: "raza"
+baseurl: "/raza"
 
 # Build settings
 permalink: /:categories/:year/:month/:day/:title:output_ext
