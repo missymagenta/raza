@@ -7,7 +7,7 @@ summary: Să nu accepți decât un singur tip de frumusețe înseamnă să nu ob
 ---
 
 <br/>
-<img src="{{site.url}}/img/corp.jpg" class="img-fluid shadow-none" alt="Responsive image">
+<img src="{{site.baseurl}}/img/corp.jpg" class="img-fluid shadow-none" alt="Responsive image">
 
 <br/>
 *Clarissa Pinkola Estes, Femei care aleargă cu lupii* 

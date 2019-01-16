@@ -3,8 +3,8 @@ title: RAZA
 email: alina.soare37@gmail.com
 author: alina
 description:
-
-baseurl:"raza"
+url: 
+baseurl: /raza
 
 # Build settings
 permalink: /:categories/:year/:month/:day/:title:output_ext
@@ -14,7 +14,7 @@ sass:
 
   # Social icons
 show_social_icons: true
-github_username: alina-soare
+github_username: missymagenta
 facebook_username: alina.soare.1420
 
 # plugins

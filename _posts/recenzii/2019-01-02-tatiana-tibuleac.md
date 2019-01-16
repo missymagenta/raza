@@ -22,7 +22,7 @@ O s-o spun pe șleau: cartea Tatianei Țîbuleac e o carte proastă, scrisă foa
 Dar… 🙂
 
 
-<img src="{{site.url}}/img/corp.jpg" class="img-fluid shadow-none" alt="Responsive image">
+<img src="{{site.baseurl}}/img/corp.jpg" class="img-fluid shadow-none" alt="Responsive image">
 
 Mai știi când vorbeam despre cum unele cărți sunt ca niște bărbați versați, care știu pe de rost toate tainele seducției și te aburesc, până nu mai înțelegi ce se întâmplă cu tine? Există o singură soluție pentru a te descurca cu genul ăsta de masculi și funcționează la fel de bine și la cărți: să nu te pripești, să  îți lași timp de cugetare și să îți cauți și păzești granițele. (Gata, cobor de la pupitrul de mamă:)
 

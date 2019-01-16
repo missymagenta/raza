@@ -8,7 +8,7 @@ summary: Mama a văzut o piesă pe care ar fi  mișto să o vadă TOATĂ LUMEA! 
 
 <br/>
 <br/>
-<img src="{{site.url}}/img/corp_urban.jpg" class="img-fluid" alt="Responsive image">
+<img src="{{site.baseurl}}/img/corp_urban.jpg" class="img-fluid" alt="Responsive image">
 
 <br/>
 <a href="https://www.facebook.com/giuvlipen/photos/a.920190341334499/2011584388861750/?type=3&theater">Sursă foto (link)</a>
