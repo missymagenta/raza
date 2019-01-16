@@ -4,8 +4,7 @@ email: "alina.soare37@gmail.com"
 author: alina
 baseurl: "/raza"
 
-# Build settings
-permalink: /:categories/:year/:month/:day/:title:output_ext
+
 
 sass:
   sass_dir: css
