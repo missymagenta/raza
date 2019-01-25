@@ -7655,7 +7655,8 @@ a.text-dark:hover, a.text-dark:focus {
     margin-bottom: 55px; }
 
   a {
-    color: #ff6600; } }
+    color: #ff6600;
+    font-style: bold underline; } }
 .card {
   background-color: transparent;
   margin: 30px 10px 0px 10px;
@@ -7676,7 +7677,8 @@ a.text-dark:hover, a.text-dark:focus {
   margin-bottom: 0px; }
 
 a {
-  color: #ff6600; }
+  color: #ff6600;
+  font-style: bold; }
 
 .titlu-link {
   font-size: 70px;
