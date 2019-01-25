@@ -62,12 +62,6 @@ Rămânând pe făgașul rețetarului, partea a doua a cărții urmează un scen
 
 Iar vocea naratorului are niște disonanțe: tonul de adolescent rebel de la începutul cărții pare neverosimil venind din (aflăm mai târziu) gura unui adult trecut prin o sută de terapeuți.
 
-Și mai e ceva ce mi a rămas pe creier Mica, spune-mi tu dacă exagerez sau nu. Mă zgârie grav propoziția asta despre evrei:
-
-”Din lumea pestriță și hulpavă care mă înconjoară – intermediari care câștigă mai mult decât artiștii, directori de galerii prestigioase sau dubioase, critici de artă mai nebuni ca mine, oligarhi ruși și mecenați japonezi, milionari evrei care nu recunosc că sunt nici una, nici alta – doar Sacha are interesul să mă vadă viu.”
-
-Oare de ce nu recunosc că sunt evrei? Pentru că fac parte din conspirația mondială a evreilor împotriva omului de rând? Aștept părerea ta că știu că te interesează subiectul.
-
 Partea cea mai problematică e însă alta. În ciuda varietății aparente, textura romanului are un singur element de bază: corpurile feminine, care trec prin penița naratorului ca printr-o mașină de tocat.
 
 În prim plan se află trupul mamei, care la început e ”mică și grasă, proastă și urâtă”. Pe măsură ce boala o roade din interior și slăbește, mama devine ”frumoasă”, iar frumusețea ei e descrisă foarte visceral, plasând (ca și revista Cosmopolitan, dacă mă întrebi pe mine), niște atribute fizice cât se poate de omenești în domeniul moralității. Silueta, părul și hainele mamei grase sunt descrise ca ofense, pentru care femeia bolnavă de cancer ajunge chiar să își ceară scuze, înainte de orice altceva: ”M-a rugat să o iert pentru că m-a făcut de rușine atâția ani, pentru că nu m-a iubit și pentru că s-a gândit la Mika moartă mai mult decât la mine viu.” (!)
